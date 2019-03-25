@@ -1,5 +1,2 @@
-# students
-asiet
-12345
-anandha
-hello
+# THUGS
+the_mad_kid
